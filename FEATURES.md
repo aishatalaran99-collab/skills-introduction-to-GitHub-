@@ -23,3 +23,4 @@ o	Update inventory when stock is received.
 o	Track purchase-order status and history.
 o	Relevance to the system: This connects vendor relations with inventory control, helping the business know what has been ordered, what has arrived, and what stock is available.
 
+Research completed for POS and Vendor Relations
